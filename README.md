@@ -5,7 +5,7 @@ Project and README file created on 25/03/2020
 Bikeshare
 
 ### Description
-Describe what your project is about and what it does
+The project uses Python to understand US bike share data
 
 ### Files used
 bikeshare.py
