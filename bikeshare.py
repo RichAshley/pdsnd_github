@@ -1,5 +1,6 @@
 
 # PYTHON PROJECT TO ANALYSE U.S. BIKESHARE DATA
+# The code will prompt the use to analyse the data from one of three cities, looking at travel times and stations
 
 #---------------------------------------------------------------------------------------------------------
 #Load Libraries ---------- -------------------------------------------------------------------------------
