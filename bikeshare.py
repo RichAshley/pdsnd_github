@@ -351,10 +351,10 @@ while True:
         print("\nRESULT: Most recent year of birth is {}".format(int(df['Birth Year'].max())))
 
     # User option to restart the code
-    restart = input('\nWould you like to restart? (Y/N) >>> ')
-    restart = yn_check(restart)
+    run_code_again = input('\nWould you like to restart? (Y/N) >>> ')
+    run_code_again = yn_check(restart)
 
     # Quit if user chooses to
-    if restart.upper() != 'Y':
+    if run_code_again.upper() != 'Y':
         print("Thank you, goodbye")
         break
