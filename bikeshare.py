@@ -275,17 +275,17 @@ while True:
     #---------------------------------------------------------------------------------------------------------
     # Q1 Popular Times of Travel
 
-    z = modal_dt('month')
-    z = modal_dt('day_of_week')
-    z = modal_dt('hour')
+    modal_time_period = modal_dt('month')
+    modal_time_period = modal_dt('day_of_week')
+    modal_time_period = modal_dt('hour')
 
 
     #---------------------------------------------------------------------------------------------------------
     # Q1 Popular Stations for Travel
 
-    z = modal_st('Start Station')
-    z = modal_st('End Station')
-    z = modal_st('Journey')
+    modal_station = modal_st('Start Station')
+    modal_station = modal_st('End Station')
+    modal_station = modal_st('Journey')
 
 
     #---------------------------------------------------------------------------------------------------------
