@@ -1,3 +1,6 @@
+
+# PYTHON PROJECT TO ANALYSE U.S. BIKESHARE DATA
+
 #---------------------------------------------------------------------------------------------------------
 #Load Libraries ---------- -------------------------------------------------------------------------------
 import pandas as pd
@@ -354,4 +357,3 @@ while True:
     if restart.upper() != 'Y':
         print("Thank you, goodbye")
         break
-  
